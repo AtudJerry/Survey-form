@@ -1,0 +1,33 @@
+.row4{
+height: 30px;
+width: 90px;
+
+}
+table{
+    border: 5px;
+    background-color: #fff;
+    width: 900px;
+    height: 500px;
+    
+    
+    
+}
+.column1{
+   text-align-last: right;
+    padding-right: 20px;
+    
+}
+
+header{
+
+    background-color: rgb(95, 196, 162);
+    height: 30px;
+    font-size: 30px;
+}
+body{
+    background-color: rgb(95, 196, 162);
+}
+caption{
+    background-color: #fff;
+
+}
